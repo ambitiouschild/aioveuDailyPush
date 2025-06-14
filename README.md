@@ -3,6 +3,15 @@
 
 2025/6/14
 
+DeepWiki 是由 Cognition Labs 公司推出的一款专为开发者打造的免费的 AI 驱动 GitHub 源码阅读与分析神器。
+它结合了最前沿的人工智能技术，旨在帮助开发者更高效地阅读、理解和分析 GitHub 上的源码，从而加速开发进程，提升代码质量（无需注册即可使用）。
+官网地址：https://deepwiki.com
+
+只需要将对应 GitHub 仓库链接中的 GitHub 替换为 DeepWiki，即可直接访问对应的 DeepWiki 页面。
+如：https://deepwiki.com/<user>/<repository>如下所示，
+我们要阅读 abp 的源码：https://deepwiki.com/abpframework/abp直接一键就给我们生成了 abp 源代码的项目详细 Wiki 文档：
+
+
 沁园春·长沙
 
 毛泽东
