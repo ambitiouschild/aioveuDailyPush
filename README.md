@@ -1,7 +1,13 @@
 # aioveuDailyPush
 每日一push，aioveuDailyPush
 
+2025/9/6
 
+七古
+
+毛泽东
+
+自信人生二百年，会当水击三千里。
 
 
 2025/9/5
