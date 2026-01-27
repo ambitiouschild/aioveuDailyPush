@@ -1,8 +1,15 @@
 # aioveuDailyPush
 每日一push，aioveuDailyPush
 
+2026/1/27
 
+竹里馆
 
+王维（唐）
+
+独坐幽篁里，弹琴复长啸。
+
+深林人不知，明月来相照。
 
 2026/1/26
 
