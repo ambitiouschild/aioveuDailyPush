@@ -1,6 +1,13 @@
 # aioveuDailyPush
 每日一push，aioveuDailyPush
 
+2026/6/27
+
+庄子·外篇·知北游
+
+人生天地之间，若白驹之过隙，忽然而已。
+
+
 2026/6/26
 
 
